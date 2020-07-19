@@ -1,5 +1,4 @@
-![](./loop.gif)
-
+<img src="https://raw.githubusercontent.com/mdegis/mdegis/master/loop.gif" width="500">
 <!--
 **mdegis/mdegis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
