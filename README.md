@@ -1,4 +1,4 @@
-![](./goto.png)
+![](https://raw.githubusercontent.com/mdegis/mdegis/master/goto.png)
 
 <!--
 **mdegis/mdegis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
